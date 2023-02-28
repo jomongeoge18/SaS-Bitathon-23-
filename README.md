@@ -1,11 +1,11 @@
 # SaS-Bitathon-23-StartUpInsight
 StartUpInsight webapp
 
-"Three Degrees" is a solution to a real-time problem that start-ups face in finding potential investors. By offering a platform that allows start-ups to search for investors based on their funding preferences, industry focus, and location, it is helping to bridge the gap between start-ups and investors.
+StartUpInsight is a solution to a real-time problem that start-ups face in finding potential investors. By offering a platform that allows start-ups to search for investors based on their funding preferences, industry focus, and location, it is helping to bridge the gap between start-ups and investors.
 
 The platform is helping to level the playing field for start-ups by improving their access to funding. This is particularly important as start-ups often struggle to identify and connect with investors who are interested in their specific industry or business idea.
 
-By contributing to a more vibrant and dynamic start-up ecosystem, "Three Degrees" is helping to promote innovation and entrepreneurship, which can have a positive impact on the economy and society as a whole.
+By contributing to a more vibrant and dynamic start-up ecosystem, StartUpInsight is helping to promote innovation and entrepreneurship, which can have a positive impact on the economy and society as a whole.
 
 ![image](https://user-images.githubusercontent.com/57668171/221802385-723382ac-3540-4178-9ea2-1a135aa8736a.png)
 
